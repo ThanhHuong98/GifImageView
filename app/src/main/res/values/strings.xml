@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridViewImages</string>
+    <string name ="txtMsg">Scroll screen, tap to choose</string>
+    <string name ="btnSoloBack">Back</string>
+</resources>
